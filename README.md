@@ -6,7 +6,7 @@ A simple tool to search articles in [ruanyf/weekly](https://github.com/ruanyf/we
 之前对 Python 简单的了解，印象中 python 也是非常适合做爬虫的。所以就写了这个简单的脚本来帮我找到我自己想看的文章。
 
 ## 效果
-![demo](https://github.com/oakland/weekByweek/blob/master/weekly_search.gif)
+![demo](https://github.com/oakland/weekly-search/blob/master/weekly-search.gif)
 
 ## 安装
 运行脚本，有一些简单的前提条件：
@@ -35,3 +35,5 @@ A simple tool to search articles in [ruanyf/weekly](https://github.com/ruanyf/we
 ## Buy me a coffee
 如果觉得工具还不错，可以 buy me a coffee。第一次做这种工具分享给大家，希望大家喜欢和支持，1 分也是爱，让我感觉到有人用到了并且能对你有帮助。
 
+![wechat](https://github.com/oakland/weekly-search/blob/master/minWechat.jpg)
+![alipay](https://github.com/oakland/weekly-search/blob/master/minAlipay.jpg)
