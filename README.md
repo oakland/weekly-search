@@ -1,3 +1,7 @@
+# 新的工具
+https://sourcegraph.com/github.com/ruanyf/weekly ，用这个工具就可以了，不用这个仓库
+
+
 # Weekly-Search
 A simple tool to search articles in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 
